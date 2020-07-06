@@ -1,5 +1,5 @@
 # Multithread-Server
-ULP, Sistemas Operativos, a21805862
+ULP, Sistemas Operativos, Fábio Pereira a21805862
 
 Os ficheiros de teste existem no diretório /home/pikku/mock/
 Existem 6 ficheiros, sendo 5 deles iguais e o 6º várias vezes maior do que os restantes (para testar atrasos (que só existem quando não é utilizada concurrency))
