@@ -1,4 +1,4 @@
-Os ficheiros de teste estão no diretório /home/pikku/mock/
+Os ficheiros de teste existem no diretório /home/pikku/mock/
 Existem 6 ficheiros, sendo 5 deles iguais e o 6º várias vezes maior do que os restantes (para testar atrasos (que só existem quando não é utilizada concurrency))
 
 Steps:
